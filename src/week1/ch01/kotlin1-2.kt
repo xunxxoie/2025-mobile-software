@@ -1,3 +1,5 @@
+package week1.ch01
+
 fun main(){
 
     // val = 값을 변경할 수 없음, 읽기 전용

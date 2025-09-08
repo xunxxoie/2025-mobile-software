@@ -1,3 +1,5 @@
+package week1.ch01
+
 fun main(){
     val person: Person = Person()
     person.name = "Hong"
